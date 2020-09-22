@@ -1,0 +1,6 @@
+(New version, now version 5.0 with channels audio)
+
+Hello,
+You can here make Controls for audio,video and midi files just by pure Windows API.
+you can open,play,pause,resume,stop,close,make control for audio channels,Get Progress,Get Total Time,Get Total frames,Get Number frames per second,SetAutoRepeat,GetCurrent frame (Get current position),Get cuurent time,Get Actual size,Get Current Size,resize the movie,SetDefaultDevice,let you at the end of file..for all types Multimedia qt,mov, dat,snd, mpg, mpa, mpv, enc, m1v, mp2,mp3, mpe, mpeg, mpm
+au,snd, aif, aiff, aifc,wav,avi,mid,rmi,(and *.vob this format for dvd video)...etc.
